@@ -36,7 +36,8 @@
    - Frontend Developer at Ethlizards-NFT
       - Github: https://github.com/Ethlizards-NFT
       - Product: https://www.ethlizards.io
-      - Stack: Nextjs   
+      - Stack: Nextjs
+    
 🔗Connect
 -------------------------------------
 <div style="background:transparent">
