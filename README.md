@@ -3,7 +3,7 @@
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
 -->
-### Hi there 👋 I am Jacob.
+### Hi there👋  
 - Rust Developer ( based on ICP Network )
 - Web3 & Casino Devepoler
 
