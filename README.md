@@ -10,8 +10,8 @@
 
 👍 Summary
 -------------------------------------
-- With 7 years of experience in software development and engineering, I have a proven track record of delivering high-quality solutions that meet business requirements while adhering to best practices and industry standards.
-- Seeking a challenging role in a dynamic organization where I can leverage my skills and experience to drive business success.
+- With 7 years of experience in software development and engineering, I have a demonstrated history of delivering top-notch solutions that align with business needs, all while following best practices and industry standards.
+- I am currently seeking a challenging position within a dynamic organization where I can apply my skills and expertise to propel business growth and success.
 
 🏆Portfolio
 -------------------------------------
