@@ -27,7 +27,6 @@
       - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
 - Casino & Full-Stack Development
    - Fullstack Developer at Canada777
-      - Github: https://github.com/affiliateslots
       - Product: https://affiliateslots.com
       - Product: https://canada777.com
       - Product: https://game777.vercel.app
