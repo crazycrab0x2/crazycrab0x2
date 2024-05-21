@@ -4,7 +4,7 @@
 </div>  
 -->
 ### 👋 Hi , I am Ichiro  
-- Rust Developer ( ICP | Ordinals | BRC20 | Runes )
+- Rust Developer ( ICP | Solana | Ordinals | BRC20 | Runes )
 - Python Developer | AI Engineer
 - Online Casino Developer
 
