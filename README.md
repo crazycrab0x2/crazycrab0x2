@@ -4,7 +4,7 @@
 </div>  
 -->
 ### 👋 Hi , I am Ichiro  
-- Rust Developer ( ICP | Solana | Stellar | Cosmos | Sui | Astar )
+- Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
 - Python Developer | AI Engineer
 - Online Casino Developer
 
@@ -16,27 +16,24 @@
 🏆Portfolio
 -------------------------------------
  - Rust & BTC dev at Oranjinals
-      - Product: https://www.betbtc.win/
-      - Product: https://x.com/oranjinals
-      - Stack: Rust + ICP + ChainFusion + Runes + Vuejs
+   - Product: https://www.betbtc.win/
+   - Product: https://x.com/oranjinals
+   - Stack: Rust + ICP + ChainFusion + Runes + Vuejs
 - Rust & ICP Dev at Bridge23
-      - Product: https://beta.bridge23.app/           
-        - Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
-- Rust & ICP Dev
-    - Rust Engineer at OutRankNFT
-      - Product: https://www.outrank.io/     
-      - Stack: TypeScript + Nextjs + Rust + Dfx
+   - Product: https://beta.bridge23.app/
+   - Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
+- Rust & ICP Dev at OutRank
+   - Product: https://www.outrank.io/
+   - Stack: TypeScript + Nextjs + Rust + Dfx
 - Rust & Near Dev at NearNauts
-      - Product: https://twitter.com/NEARNauts
-      - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
+   - Product: https://twitter.com/NEARNauts
+   - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
 - Casino & Full-Stack Dev at Canada777
-      - Product: https://affiliateslots.com
-      - Product: https://canada777.com
-      - Product: https://game777.vercel.app
-      - Stack: Nextjs/Vuejs + Nodejs + Mongodb
+   - Product: https://canada777.com
+   - Stack: Nextjs/Vuejs + Nodejs + Mongodb
 - Python & AI Dev at Iconvo.ai
-      - Product: https://iconvo.ai
-      - Stack: Python + Flask + OpenAI + SQLite
+   - Product: https://iconvo.ai
+   - Stack: Python + Flask + OpenAI + SQLite
 - Python Dev at Ontic
-      - Product: https://ontic.co
-      - Stack: Python + NumPy + Data Scraping + PostgreSQL
+   - Product: https://ontic.co
+   - Stack: Python + NumPy + Data Scraping + PostgreSQL
