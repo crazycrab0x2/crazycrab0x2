@@ -4,7 +4,7 @@
 </div>  
 -->
 ### 👋 Hi , I am Ichiro  
-- Rust Developer ( ICP | Solana | Ordinals | BRC20 | Runes )
+- Rust Developer ( ICP | Solana | Stellar | Cosmos | Sui | Astar )
 - Python Developer | AI Engineer
 - Online Casino Developer
 
@@ -15,26 +15,28 @@
 
 🏆Portfolio
 -------------------------------------
-- Rust & ICP Development
+ - Rust & BTC dev at Oranjinals
+      - Product: https://www.betbtc.win/
+      - Product: https://x.com/oranjinals
+      - Stack: Rust + ICP + ChainFusion + Runes + Vuejs
+- Rust & ICP Dev at Bridge23
+      - Product: https://beta.bridge23.app/           
+        - Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
+- Rust & ICP Dev
     - Rust Engineer at OutRankNFT
-      - Product: https://www.outrank.io/ 
-      - Product: https://icp-nft-rarity.netlify.app 
-      - Product: https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/          
+      - Product: https://www.outrank.io/     
       - Stack: TypeScript + Nextjs + Rust + Dfx
-- Blockchain & Web3 Development
-    - Smart Contract Developer at NearNauts
+- Rust & Near Dev at NearNauts
       - Product: https://twitter.com/NEARNauts
       - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
-- Casino & Full-Stack Development
-   - Fullstack Developer at Canada777
+- Casino & Full-Stack Dev at Canada777
       - Product: https://affiliateslots.com
       - Product: https://canada777.com
       - Product: https://game777.vercel.app
       - Stack: Nextjs/Vuejs + Nodejs + Mongodb
-- AI | Python Development
-   - Python Backend Developer at Iconvo.ai
+- Python & AI Dev at Iconvo.ai
       - Product: https://iconvo.ai
       - Stack: Python + Flask + OpenAI + SQLite
-   - Python Developer at Ontic
+- Python Dev at Ontic
       - Product: https://ontic.co
       - Stack: Python + NumPy + Data Scraping + PostgreSQL
