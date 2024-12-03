@@ -3,7 +3,7 @@
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
 -->
-### 👋 Hi , I am Ichiro  
+### 👋 Hi 
 - Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
 - Python Developer | AI Engineer
 - Online Casino Developer
